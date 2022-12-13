@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-myconfig",
+  "version": "1.0.0",
+  "description": "Contains eslint rules that I commonly use",
+  "main": "index.js",
+  "private": true,
+  "keywords": [
+    "eslint",
+    "javascript"
+  ],
+  "author": "Drei Quevada",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
